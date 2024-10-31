@@ -1,1 +1,0 @@
-Aproximacion de taylor
